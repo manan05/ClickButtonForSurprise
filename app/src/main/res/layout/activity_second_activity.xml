@@ -28,7 +28,7 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:text="Happy Birthday to"
+        android:text="Get BamBoozled"
         android:textSize="40sp"
         app:layout_constraintBottom_toTopOf="@+id/tvOutput"
         app:layout_constraintEnd_toEndOf="parent"
